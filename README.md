@@ -1,11 +1,19 @@
-# Rails Sample App on OpenShift #
+# Rails Quickstart adapted for Code Healthy Hackathon #
+
+Basic Epidemiology app able to give health advice on outbreaks e.g. Zika
+and potential dangers.
+Also capable of further expansion e.g. authentication, search optimisation
+Linked to my own app on the old Openshift.
+I acknowledge work done on the rails quickstart.
+
+ Rails Sample App on OpenShift 
 Quickstart rails application for openshift.
 
 The easiest way to install this application is to use the [OpenShift
 Instant Application][template]. If you'd like to install it
 manually, follow [these directions](#manual-installation).
 
-## OpenShift Considerations ##
+ OpenShift Considerations 
 These are some special considerations you may need to keep in mind when
 running your application on OpenShift.
 
